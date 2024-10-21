@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = s3://sandbox-datasets-iterative/magnetic-tiles/
+    url = gs://staging-eu-ml-pipelines-g98e/dvc_test_data/
